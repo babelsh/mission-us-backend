@@ -1,0 +1,11 @@
+example_id                                | status | run_time        |
+----------------------------------------- | ------ | --------------- |
+./spec/models/activity_spec.rb[1:1]       | passed | 0.01472 seconds |
+./spec/models/activity_spec.rb[1:2]       | passed | 0.01093 seconds |
+./spec/models/trail_activity_spec.rb[1:1] | passed | 0.00315 seconds |
+./spec/models/trail_activity_spec.rb[1:2] | passed | 0.03118 seconds |
+./spec/models/trail_spec.rb[1:1]          | passed | 0.01291 seconds |
+./spec/models/trail_spec.rb[1:2]          | passed | 0.07408 seconds |
+./spec/models/user_spec.rb[1:1]           | passed | 0.00274 seconds |
+./spec/models/user_spec.rb[1:2]           | passed | 0.01656 seconds |
+./spec/models/user_trail_spec.rb[1:1]     | passed | 0.00801 seconds |
