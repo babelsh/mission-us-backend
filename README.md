@@ -1,5 +1,7 @@
 # Mission Us Rails API
 
+[![Build Status](https://travis-ci.org/babelsh/mission-us-backend.svg?branch=master)](https://travis-ci.org/babelsh/mission-us-backend)
+
 - [Dependencies](#dependencies)
 - [Testing](#testing)
 - [Setup](#setup)
