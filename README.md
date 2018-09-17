@@ -150,14 +150,14 @@ returns
 ```json
 [
   {
-    "id":"4",
+    "id":4,
     "description":"this is a description",
-    "duration":"8",
+    "duration":8,
   },
   {
-    "id":78
+    "id":78,
     "description":"this is another description",
-    "duration":"1",
+    "duration":1,
   }
 ]
 ```
@@ -176,9 +176,9 @@ returns
 
 ```json
 {
-  "id":"4",
+  "id":4,
   "description":"this is a description",
-  "duration":"8",
+  "duration":8,
 }
 ```
 
@@ -205,12 +205,12 @@ returns
 ```json
 [
   {
-    "id":"4",
+    "id":2,
     "description":"this is a description",
     "title":"this title is cool",
   },
   {
-    "id":78
+    "id":15,
     "description":"this is another description",
     "title":"this tile isn't cool",
   }
