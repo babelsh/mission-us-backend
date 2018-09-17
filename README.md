@@ -77,7 +77,7 @@ see [rails generate](https://guides.rubyonrails.org/command_line.html#rails-gene
 
 Do correct associations.
 
-#### Testnig
+#### Testing
 
 Write that were created by the rails generate.
 
@@ -119,7 +119,7 @@ namespace 'api' do
 end
 ```
 
-#### Testnig
+#### Testing
 
 Write the tests in the files that were created by the rails generate.
 
