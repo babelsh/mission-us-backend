@@ -1,11 +1,11 @@
 example_id                                | status | run_time        |
 ----------------------------------------- | ------ | --------------- |
-./spec/models/activity_spec.rb[1:1]       | passed | 0.00294 seconds |
-./spec/models/activity_spec.rb[1:2]       | passed | 0.00748 seconds |
-./spec/models/trail_activity_spec.rb[1:1] | passed | 0.0015 seconds  |
-./spec/models/trail_activity_spec.rb[1:2] | passed | 0.01397 seconds |
-./spec/models/trail_spec.rb[1:1]          | passed | 0.00925 seconds |
-./spec/models/trail_spec.rb[1:2]          | passed | 0.00299 seconds |
-./spec/models/user_spec.rb[1:1]           | passed | 0.00779 seconds |
-./spec/models/user_spec.rb[1:2]           | passed | 0.00371 seconds |
-./spec/models/user_trail_spec.rb[1:1]     | passed | 0.01581 seconds |
+./spec/models/activity_spec.rb[1:1]       | passed | 0.00304 seconds |
+./spec/models/activity_spec.rb[1:2]       | passed | 0.20813 seconds |
+./spec/models/trail_activity_spec.rb[1:1] | passed | 0.00686 seconds |
+./spec/models/trail_activity_spec.rb[1:2] | passed | 0.00594 seconds |
+./spec/models/trail_spec.rb[1:1]          | passed | 0.00647 seconds |
+./spec/models/trail_spec.rb[1:2]          | passed | 0.00406 seconds |
+./spec/models/user_spec.rb[1:1]           | passed | 0.0016 seconds  |
+./spec/models/user_spec.rb[1:2]           | passed | 0.01021 seconds |
+./spec/models/user_trail_spec.rb[1:1]     | passed | 0.0065 seconds  |
