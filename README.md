@@ -1,6 +1,8 @@
 # Mission Us Rails API
 
+![API-Missao-Us](https://img.shields.io/badge/MissionUs-Backend-blue.svg)
 [![Build Status](https://travis-ci.org/babelsh/mission-us-backend.svg?branch=master)](https://travis-ci.org/babelsh/mission-us-backend)
+![GitHub top language](https://img.shields.io/github/languages/top/babelsh/mission-us-backend.svg)
 
 - [Dependencies](#dependencies)
 - [Testing](#testing)
