@@ -1,8 +1,16 @@
 # Mission Us Rails API
 
 - [Dependencies](#dependencies)
+- [Testing](#testing)
 - [Setup](#setup)
 - [Development](#development)
+- [Usage](#usage)
+  - [Requests](#requests)
+    - [Trails](#trails)
+    - [Tails/Activities](#tails/activities)
+    - [Activities](#activities)
+- [Deploy](#deploy)
+- [Guides](#guides)
 
 ## Dependencies
 
@@ -127,7 +135,7 @@ see [rails generate](https://guides.rubyonrails.org/command_line.html#rails-gene
 
 #### Trails
 
-##### index
+- index
 
 List all `trails` that `current_user` has association
 
@@ -154,7 +162,7 @@ returns
 ]
 ```
 
-##### show
+- show
 
 Get informations of one `trail` that `current_user` has association
 
@@ -174,15 +182,15 @@ returns
 }
 ```
 
-##### create [WIP] (will be used by professional profiles)
+- create [WIP] (will be used by professional profiles)
 
-##### update [WIP] (will be used by professional profiles)
+- update [WIP] (will be used by professional profiles)
 
-##### delete [WIP] (will be used by professional profiles)
+- delete [WIP] (will be used by professional profiles)
 
 #### Tails/Activities
 
-##### index
+- index
 
 List all `activities` that `current_user` and `trial:id` has association
 
@@ -209,19 +217,19 @@ returns
 ]
 ```
 
-##### index
+- index
 
 #### Activities
 
-##### index [WIP] (will be used by professional profiles)
+- index [WIP] (will be used by professional profiles)
 
-##### show [WIP] (will be used by professional profiles)
+- show [WIP] (will be used by professional profiles)
 
-##### create [WIP] (will be used by professional profiles)
+- create [WIP] (will be used by professional profiles)
 
-##### update [WIP] (will be used by professional profiles)
+- update [WIP] (will be used by professional profiles)
 
-##### delete [WIP] (will be used by professional profiles)
+- delete [WIP] (will be used by professional profiles)
 
 ## Deploy
 
