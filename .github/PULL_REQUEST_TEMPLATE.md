@@ -1,8 +1,8 @@
-Describe what you do "(>_<)"
+Describe what you did "(>_<)"
 
-## Pics
+## Json Response
 
-If you made changes screens, put here, please.
+If you made changes on json response, please show here.
 
 ## TESTS
 
