@@ -149,16 +149,20 @@ returns
 
 ```json
 [
-  {
-    "id":4,
-    "description":"this is a description",
-    "duration":8,
-  },
-  {
-    "id":78,
-    "description":"this is another description",
-    "duration":1,
-  }
+    {
+        "created_at": "2018-09-17T04:53:30.281Z",
+        "description": "Frankly, my dear, I don’t give a damn.",
+        "duration": 3,
+        "id": 35,
+        "updated_at": "2018-09-17T04:53:30.281Z"
+    },
+    {
+        "created_at": "2018-09-17T04:53:30.525Z",
+        "description": "You talking to me?",
+        "duration": 4,
+        "id": 36,
+        "updated_at": "2018-09-17T04:53:30.525Z"
+    }
 ]
 ```
 
@@ -176,9 +180,11 @@ returns
 
 ```json
 {
-  "id":4,
-  "description":"this is a description",
-  "duration":8,
+    "created_at": "2018-09-17T04:53:30.281Z",
+    "description": "Frankly, my dear, I don’t give a damn.",
+    "duration": 3,
+    "id": 35,
+    "updated_at": "2018-09-17T04:53:30.281Z"
 }
 ```
 
@@ -204,16 +210,20 @@ returns
 
 ```json
 [
-  {
-    "id":2,
-    "description":"this is a description",
-    "title":"this title is cool",
-  },
-  {
-    "id":15,
-    "description":"this is another description",
-    "title":"this tile isn't cool",
-  }
+    {
+        "created_at": "2018-09-17T04:53:30.281Z",
+        "description":"this is a description",
+        "id":2,
+        "title":"this title is cool",
+        "updated_at": "2018-09-17T04:53:30.281Z"
+    },
+    {
+        "created_at": "2018-09-17T04:53:30.281Z",
+        "description":"this is another description",
+        "id":15,
+        "title":"this tile isn't cool",
+        "updated_at": "2018-09-17T04:53:30.281Z"
+    }
 ]
 ```
 
